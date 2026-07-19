@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle drop shadow for the main icon -->
+    <path
+        android:fillColor="#30000000"
+        android:pathData="M37,84 L71,84 C73.5,84 75,82.5 75,80 L75,76 C75,74 74,73 72,73 L36,73 C34,73 33,74 33,76 L33,80 C33,82.5 34.5,84 37,84 Z" />
+    
+    <!-- Stylized Chess King Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,82 L73,82 C75.2,82 76,81 76,79 L76,75 L32,75 L32,79 C32,81 32.8,82 35,82 Z" />
+    
+    <!-- Collar -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M36,74 L72,74 L70,68 L38,68 Z" />
+    
+    <!-- Body / Column -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,67 L69,67 C69,67 67,52 64,48 L44,48 C41,52 39,67 39,67 Z" />
+    
+    <!-- Crown -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,46 L72,46 L78,35 L62,41 L54,26 L46,41 L30,35 Z" />
+    
+    <!-- Cross on Top of King Crown -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M51,15 L57,15 L57,25 L51,25 Z" />
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M47,18 L61,18 L61,22 L47,22 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Chess Offline",
+  "description": "An elegant, completely offline chess application featuring standard chess rules, multiple chessboard and pieces themes, solo matches against smart AI (Easy, Neutral, Hard), and local pass-and-play multiplayer with auto-board rotation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
